@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(33, 125, 195);
+    font-family: ascii Medium;
+}
+
+p {
+    font-size: 10px;
+    color: rgb(38, 3, 93);
+}
+
+table {
+    font-size: 25px;
+    width: 70%;
+    height: 50%;
+    border: solid 2px turquoise;
+
+}
+.lw {
+    margin: -297px 2px;
+}
+.border {
+    border: solid 2px rgb(17, 17, 17);
+    width: 12%;
+}
+.text_plus {
+    font-size: 70%;
+    color: rgb(57, 232, 22);
+}
+.text_minus {
+    font-size: 70%;
+    color: rgb(184, 24, 24);
+
+}
